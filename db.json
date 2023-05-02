@@ -1,0 +1,12 @@
+{
+    "Terms": [
+        {
+            "key": "first term",
+            "require": ["a", "b", "c"]
+        },
+        {
+            "key": "second term",
+            "require": ["a", "k"]
+        }
+    ]
+}
